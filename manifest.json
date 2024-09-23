@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro Timer",
+    "description": "Um simples temporizador Pomodoro de 25 minutos.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "./src/index.html"
+    },
+    "permissions": ["storage"]
+  }
+  
